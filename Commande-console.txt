@@ -5,3 +5,4 @@ puis ai rajouté mon texte
 puis ai rajouté mon texte
 puis ai rajouté mon texte et fait un commit
 mais je ne comprends pas pourquoi je me retrouve avec une phrase en double
+semblerait que problême résolu
