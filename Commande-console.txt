@@ -1,1 +1,3 @@
- Création du fichier par la console
+ Création du fichier 
+
+Pour se faire ai crée le dossier avec la fonction touch
