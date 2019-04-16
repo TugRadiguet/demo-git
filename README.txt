@@ -18,3 +18,8 @@ Partager des morceaux de code en ligne à l'aide de gists ;
 Proposer des modifications de code à d'autres repos en faisant des pull requests ;
 Et même récupérer du code depuis un autre repository.
 Pour récupéré un autre repository , il faut utiliser la commande : git clone lienFourniParGitHub qui se fait soit avec l’option HTPPS soit avec l’option SSH
+On peut alors y faire  des commits, soit directement (indiquées en « verified »), soit avec la console avec la commande : git push origin master
+Les différents commits effectués seront vu sous forme graphique, ce qui est l’équivalent de la commande : git log
+À l’inverse, on peut récupérer les dernières modification avec la commande : git pull 
+
+Les commits peuvent tout aussi bien être effectuer avec la console, mais là, il faut connaître les commandes consoles qui ne seront pas « verified »...
