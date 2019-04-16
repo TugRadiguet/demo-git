@@ -1,4 +1,3 @@
  Création du fichier 
 
 Pour se faire ai crée le dossier avec la fonction touch
-Pour se faire ai crée le dossier avec la fonction touch
