@@ -1,3 +1,6 @@
  Création du fichier 
 
 Pour se faire ai crée le dossier avec la fonction touch
+puis ai rajouté mon texte
+puis ai rajouté mon texte
+puis ai rajouté mon texte et fait un commit
