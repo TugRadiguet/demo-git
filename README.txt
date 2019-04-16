@@ -11,3 +11,10 @@ ATTENTION ! On ne peut pas réellement supprimer un commit mais plusieurs optio
 - git revert SHA   (ce qui crée alors un nouveau commit)
 - git commit --amend -m "Votre nouveau message" (ce qui peut se faire uniquement si l’on n’a pas « pushé » le commit)
 - git reset –hard‌ (dans la cas où l’on n’a pas fait de nouveau commit et que l’on veut annulé les commits non commités…
+GitHub est qu’en a lui un remote autrement dit une autre machine externe (site serveur) servant à :
+
+Communiquer avec d'autres développeurs et signaler des problèmes de code en déclarant des issues ;
+Partager des morceaux de code en ligne à l'aide de gists ;
+Proposer des modifications de code à d'autres repos en faisant des pull requests ;
+Et même récupérer du code depuis un autre repository.
+Pour récupéré un autre repository , il faut utiliser la commande : git clone lienFourniParGitHub qui se fait soit avec l’option HTPPS soit avec l’option SSH
